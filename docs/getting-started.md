@@ -106,7 +106,12 @@ Then run the following commands to create a new React Native project called "Awe
 
 ```sh
 expo init AwesomeProject
+```
+This will offer you two options; the blank project template which includes minimum dependencies(for start a new app) or tabs project template that includes several example screens(as a playground). Pick one with arrow.
 
+Then run the following commands to create a new React Native project called "AwesomeProject":
+
+```sh
 cd AwesomeProject
 npm start #you can also use: expo start
 ```
